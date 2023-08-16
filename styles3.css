@@ -1,0 +1,16 @@
+body{
+	background-color:rgba(67, 09, 200, 0.5);
+}
+#red{
+    color:black;
+   font-family: monospace;
+}
+#dav{
+   color: #FF0000;
+}
+.pink{
+   color: lightpink;
+}
+.yellow{
+   color: paleturquoise;
+}
